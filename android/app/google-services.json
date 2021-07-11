@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393954437564",
+    "project_id": "foodlans-driver",
+    "storage_bucket": "foodlans-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393954437564:android:ddb32f6e86f391f34fe3b9",
+        "android_client_info": {
+          "package_name": "com.foodlans_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393954437564-7m07mebkpttvm46cof6dp7kn4arvprka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkegeBII7g-I3_8zOn7w4txIXS6zy_7W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393954437564-7m07mebkpttvm46cof6dp7kn4arvprka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
